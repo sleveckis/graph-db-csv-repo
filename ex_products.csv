@@ -1,0 +1,360 @@
+product,mineral,product_id,mineral_id
+Aircraft,Aluminum (al),0,0
+Aircraft,Titanium (ti),0,38
+Aircraft,Tantalum,0,36
+Aircraft,Platinum (pt),0,28
+Aircraft,Beryllium (be),0,3
+Aircraft,Vanadium (v),0,41
+Aircraft,Tungsten (w),0,39
+Alloys,Lithium (li),1,18
+Alloys,Zinc (zn),1,43
+Alloys,Vanadium (v),1,41
+Alloys,Tungsten (w),1,39
+Alloys,Tellurium (te),1,37
+Alloys,Praseodymium (pr),1,29
+Alloys,Phosphorous (p),1,27
+Alloys,Aluminum (al),1,0
+Alloys,Arsenic (as),1,2
+Alloys,Beryllium (be),1,3
+Alloys,Cobalt (co),1,6
+Alloys,Copper (cu),1,7
+Alloys,Natural graphite,1,23
+Alloys,Manganese (mn),1,21
+Alloys,Magnesium (mg),1,20
+Alloys,Gallium (ga),1,11
+Batteries,Zinc (zn),2,43
+Batteries,Aluminum (al),2,0
+Batteries,Cobalt (co),2,6
+Batteries,Cerium (ce),2,5
+Batteries,Arsenic (as),2,2
+Batteries,Yttrium (y),2,42
+Batteries,Lanthanum (la),2,17
+Batteries,Iron (fe),2,16
+Batteries,Lrees (light rare earth elements),2,19
+Batteries,Vanadium (v),2,41
+Batteries,Sulfur (s),2,35
+Batteries,Sodium (na),2,33
+Batteries,Phosphorous (p),2,27
+Batteries,Nickel (ni),2,25
+Batteries,Natural graphite,2,23
+Batteries,Lithium (li),2,18
+Batteries,Iron (fe),2,16
+Batteries,Fluorine (f),2,10
+Batteries,Cobalt (co),2,6
+Batteries,Arsenic (as),2,2
+Batteries,Antimony (sb),2,1
+Batteries,Lithium (li),2,18
+Batteries,Manganese (mn),2,21
+Batteries,Aluminum (al),2,0
+Batteries,Neodymium (nd),2,24
+Batteries,Nickel (ni),2,25
+Batteries,Phosphorous (p),2,27
+Batteries,Praseodymium (pr),2,29
+Batteries,Natural graphite,2,23
+Breakers,Copper (cu),3,7
+Breakers,Electrical steel,3,9
+Breakers,Germanium (ge),3,13
+Breakers,Nickel (ni),3,25
+Breakers,Silicon carbide (sic),3,32
+Catalysts,Cerium (ce),4,5
+Catalysts,Rhodium (rh),4,30
+Catalysts,Platinum (pt),4,28
+Catalysts,Palladium (pd),4,26
+Catalysts,Lrees (light rare earth elements),4,19
+Communications,Yttrium (y),5,42
+Communications,Beryllium (be),5,3
+Communications,Rhodium (rh),5,30
+Construction,Copper (cu),6,7
+Construction,Iron (fe),6,16
+Construction,Silicon carbide (sic),6,32
+Construction,Sulfur (s),6,35
+Conversion,Zirconium (zr),7,44
+Conversion,Yttrium (y),7,42
+Conversion,Strontium (sr),7,34
+Conversion,Platinum (pt),7,28
+Conversion,Palladium (pd),7,26
+Conversion,Manganese (mn),7,21
+Conversion,Natural graphite,7,23
+Conversion,Mixed rare earth oxide (mreo),7,22
+Conversion,Lanthanum (la),7,17
+Conversion,Cobalt (co),7,6
+Conversion,Nickel (ni),7,25
+Conversion,Iron (fe),7,16
+Converters,Copper (cu),8,7
+Converters,Electrical steel,8,9
+Converters,Silicon carbide (sic),8,32
+Converters,Nickel (ni),8,25
+Converters,Germanium (ge),8,13
+EV Wiring,Copper (cu),9,7
+EV Wiring,Aluminum (al),9,0
+EV-Electronics,Beryllium (be),10,3
+EV-Electronics,Cerium (ce),10,5
+EV-Electronics,Copper (cu),10,7
+EV-Electronics,Dysprosium (dy),10,8
+EV-Electronics,Germanium (ge),10,13
+EV-Electronics,Indium (in),10,14
+EV-Electronics,Gallium (ga),10,11
+EV-Electronics,Manganese (mn),10,21
+EV-Electronics,Palladium (pd),10,26
+EV-Electronics,Platinum (pt),10,28
+EV-Electronics,Silicon (si),10,31
+EV-Electronics,Silicon carbide (sic),10,32
+EV-Electronics,Tantalum,10,36
+EV-Electronics,Tellurium (te),10,37
+EV-Electronics,Lanthanum (la),10,17
+Electronics,Lanthanum (la),11,17
+Electronics,Beryllium (be),11,3
+Electronics,Cerium (ce),11,5
+Electronics,Platinum (pt),11,28
+Electronics,Dysprosium (dy),11,8
+Electronics,Indium (in),11,14
+Electronics,Germanium (ge),11,13
+Electronics,Gallium (ga),11,11
+Electronics,Gallium nitride (gan),11,12
+Electronics,Iridium (ir),11,15
+Electronics,Arsenic (as),11,2
+Electronics,Copper (cu),11,7
+Electronics,Silicon (si),11,31
+Electronics,Silicon carbide (sic),11,32
+Electronics,Tantalum,11,36
+Electronics,Tellurium (te),11,37
+Electronics,Manganese (mn),11,21
+Electronics,Antimony (sb),11,1
+Electronics,Lrees (light rare earth elements),11,19
+Electronics,Beryllium (be),11,3
+Electronics,Iridium (ir),11,15
+Electronics,Palladium (pd),11,26
+Electronics,Tellurium (te),11,37
+Electronics,Antimony (sb),11,1
+Electronics,Palladium (pd),11,26
+Equipment/implants,Arsenic (as),12,2
+Equipment/implants,Titanium (ti),12,38
+Equipment/implants,Beryllium (be),12,3
+Equipment/implants,Boron (b),12,4
+Equipment/implants,Cobalt (co),12,6
+Equipment/implants,Copper (cu),12,7
+Equipment/implants,Fluorine (f),12,10
+Equipment/implants,Gallium (ga),12,11
+Equipment/implants,Iridium (ir),12,15
+Equipment/implants,Lanthanum (la),12,17
+Equipment/implants,Lithium (li),12,18
+Equipment/implants,Indium (in),12,14
+Equipment/implants,Nickel (ni),12,25
+Equipment/implants,Palladium (pd),12,26
+Equipment/implants,Phosphorous (p),12,27
+Equipment/implants,Platinum (pt),12,28
+Equipment/implants,Silicon carbide (sic),12,32
+Equipment/implants,Sodium (na),12,33
+Equipment/implants,Strontium (sr),12,34
+Equipment/implants,Tantalum,12,36
+Equipment/implants,Magnesium (mg),12,20
+Food/water/nutrition,Magnesium (mg),13,20
+Food/water/nutrition,Arsenic (as),13,2
+Food/water/nutrition,Boron (b),13,4
+Food/water/nutrition,Cobalt (co),13,6
+Food/water/nutrition,Copper (cu),13,7
+Food/water/nutrition,Fluorine (f),13,10
+Food/water/nutrition,Sodium (na),13,33
+Food/water/nutrition,Manganese (mn),13,21
+Food/water/nutrition,Lrees (light rare earth elements),13,19
+Food/water/nutrition,Zinc (zn),13,43
+Food/water/nutrition,Uranium (u),13,40
+Food/water/nutrition,Sulfur (s),13,35
+Fuel Cells,Yttrium (y),14,42
+Fuel Cells,Cobalt (co),14,6
+Fuel Cells,Lithium (li),14,18
+Fuel Cells,Manganese (mn),14,21
+Fuel Cells,Mixed rare earth oxide (mreo),14,22
+Fuel Cells,Natural graphite,14,23
+Fuel Cells,Nickel (ni),14,25
+Fuel Cells,Palladium (pd),14,26
+Fuel Cells,Platinum (pt),14,28
+Fuel Cells,Strontium (sr),14,34
+Fuel Cells,Zirconium (zr),14,44
+Fuel Cells,Iron (fe),14,16
+Fuel Cells,Lanthanum (la),14,17
+Fuels,Natural graphite,15,23
+Fuels,Strontium (sr),15,34
+Fuels,Uranium (u),15,40
+Fuels,Zirconium (zr),15,44
+Fuels,Fluorine (f),15,10
+Fuels,Electrical steel,15,9
+H2 Electrolyzers,Nickel (ni),16,25
+H2 Electrolyzers,Cobalt (co),16,6
+H2 Electrolyzers,Iridium (ir),16,15
+H2 Electrolyzers,Lanthanum (la),16,17
+H2 Electrolyzers,Manganese (mn),16,21
+H2 Electrolyzers,Zirconium (zr),16,44
+H2 Electrolyzers,Boron (b),16,4
+H2 Electrolyzers,Platinum (pt),16,28
+H2 Electrolyzers,Strontium (sr),16,34
+H2 Electrolyzers,Titanium (ti),16,38
+H2 Electrolyzers,Yttrium (y),16,42
+LED,Arsenic (as),17,2
+LED,Aluminum (al),17,0
+LED,Indium (in),17,14
+LED,Lanthanum (la),17,17
+LED,Phosphorous (p),17,27
+LED,Yttrium (y),17,42
+LED,Gallium nitride (gan),17,12
+LED,Gallium (ga),17,11
+Lightweighting,Aluminum (al),18,0
+Lightweighting,Silicon (si),18,31
+Lightweighting,Nickel (ni),18,25
+Lightweighting,Manganese (mn),18,21
+Lightweighting,Magnesium (mg),18,20
+Lightweighting,Lithium (li),18,18
+Lightweighting,Aluminum (al),18,0
+Lightweighting,Silicon (si),18,31
+Lightweighting,Nickel (ni),18,25
+Lightweighting,Manganese (mn),18,21
+Lightweighting,Magnesium (mg),18,20
+Lightweighting,Lithium (li),18,18
+Lightweighting,Titanium (ti),18,38
+Magnets,Cobalt (co),19,6
+Magnets,Dysprosium (dy),19,8
+Magnets,Boron (b),19,4
+Magnets,Gallium (ga),19,11
+Magnets,Iron (fe),19,16
+Magnets,Lanthanum (la),19,17
+Magnets,Neodymium (nd),19,24
+Magnets,Nickel (ni),19,25
+Magnets,Aluminum (al),19,0
+Magnets,Lrees (light rare earth elements),19,19
+Magnets,Praseodymium (pr),19,29
+Microchips,Indium (in),20,14
+Microchips,Germanium (ge),20,13
+Moderators,Natural graphite,21,23
+Moderators,Uranium (u),21,40
+Moderators,Vanadium (v),21,41
+Moderators,Zirconium (zr),21,44
+Moderators,Beryllium (be),21,3
+Moderators,Sodium (na),21,33
+Moderators,Electrical steel,21,9
+Moderators,Dysprosium (dy),21,8
+Moderators,Boron (b),21,4
+Moderators,Nickel (ni),21,25
+Motors,Titanium (ti),22,38
+Motors,Rhodium (rh),22,30
+Motors,Copper (cu),22,7
+Motors,Silicon (si),22,31
+Motors,Praseodymium (pr),22,29
+Motors,Lrees (light rare earth elements),22,19
+Motors,Iridium (ir),22,15
+Motors,Indium (in),22,14
+Motors,Electrical steel,22,9
+Motors,Copper (cu),22,7
+Motors,Electrical steel,22,9
+Offshore Turbines,Zinc (zn),23,43
+Offshore Turbines,Boron (b),23,4
+Offshore Turbines,Copper (cu),23,7
+Offshore Turbines,Dysprosium (dy),23,8
+Offshore Turbines,Electrical steel,23,9
+Offshore Turbines,Neodymium (nd),23,24
+Offshore Turbines,Lrees (light rare earth elements),23,19
+Offshore Turbines,Praseodymium (pr),23,29
+Offshore Turbines,Gallium (ga),23,11
+Onshore Turbines,Zinc (zn),24,43
+Onshore Turbines,Gallium (ga),24,11
+Onshore Turbines,Lrees (light rare earth elements),24,19
+Onshore Turbines,Copper (cu),24,7
+Onshore Turbines,Dysprosium (dy),24,8
+Onshore Turbines,Electrical steel,24,9
+PVs,Zinc (zn),25,43
+PVs,Tellurium (te),25,37
+PVs,Silicon (si),25,31
+PVs,Germanium (ge),25,13
+PVs,Gallium (ga),25,11
+PVs,Copper (cu),25,7
+PVs,Boron (b),25,4
+PVs,Indium (in),25,14
+Production/manufacturing,Zirconium (zr),26,44
+Production/manufacturing,Tantalum,26,36
+Production/manufacturing,Silicon carbide (sic),26,32
+Satellite,Beryllium (be),27,3
+Satellite,Palladium (pd),27,26
+Scientific,Uranium (u),28,40
+Scientific,Zirconium (zr),28,44
+Scientific,Arsenic (as),28,2
+Scientific,Copper (cu),28,7
+Scientific,Gallium (ga),28,11
+Scientific,Iridium (ir),28,15
+Scientific,Rhodium (rh),28,30
+Scientific,Strontium (sr),28,34
+Scientific,Sulfur (s),28,35
+Scientific,Tantalum,28,36
+Ships,Copper (cu),29,7
+Ships,Uranium (u),29,40
+Spacecraft,Aluminum (al),30,0
+Spacecraft,Beryllium (be),30,3
+Spacecraft,Palladium (pd),30,26
+Spacecraft,Gallium (ga),30,11
+Spacecraft,Germanium (ge),30,13
+Spacecraft,Tantalum,30,36
+Spacecraft,Titanium (ti),30,38
+Spacecraft,Uranium (u),30,40
+Spacecraft,Zirconium (zr),30,44
+Spacecraft,Copper (cu),30,7
+Switches,Silicon carbide (sic),31,32
+Switches,Nickel (ni),31,25
+Switches,Germanium (ge),31,13
+Switches,Electrical steel,31,9
+Switches,Beryllium (be),31,3
+Switches,Copper (cu),31,7
+Transformers,Aluminum (al),32,0
+Transformers,Copper (cu),32,7
+Transformers,Iron (fe),32,16
+Transformers,Fluorine (f),32,10
+Transformers,Germanium (ge),32,13
+Transformers,Silicon carbide (sic),32,32
+Transformers,Silicon (si),32,31
+Transformers,Nickel (ni),32,25
+Transformers,Copper (cu),32,7
+Transformers,Electrical steel,32,9
+Transformers,Electrical steel,32,9
+Treatment,Cerium (ce),33,5
+Treatment,Uranium (u),33,40
+Treatment,Phosphorous (p),33,27
+Treatment,Platinum (pt),33,28
+Treatment,Lithium (li),33,18
+Treatment,Lanthanum (la),33,17
+Treatment,Iridium (ir),33,15
+Treatment,Indium (in),33,14
+Treatment,Gallium (ga),33,11
+Treatment,Silicon carbide (sic),33,32
+Treatment,Sodium (na),33,33
+Treatment,Strontium (sr),33,34
+Treatment,Tantalum,33,36
+Treatment,Titanium (ti),33,38
+Treatment,Palladium (pd),33,26
+Treatment,Magnesium (mg),33,20
+Treatment,Zirconium (zr),33,44
+Treatment,Arsenic (as),33,2
+Treatment,Fluorine (f),33,10
+Treatment,Boron (b),33,4
+Treatment,Copper (cu),33,7
+Treatment,Cobalt (co),33,6
+Treatment,Yttrium (y),33,42
+Vehicles Other,Beryllium (be),34,3
+Vehicles Other,Antimony (sb),34,1
+Wiring,Copper (cu),35,7
+Wiring,Aluminum (al),35,0
+nuclear other,Beryllium (be),36,3
+nuclear other,Tantalum,36,36
+semiconductors,Indium (in),37,14
+semiconductors,Boron (b),37,4
+semiconductors,Antimony (sb),37,1
+semiconductors,Arsenic (as),37,2
+semiconductors,Germanium (ge),37,13
+semiconductors,Gallium (ga),37,11
+semiconductors,Gallium nitride (gan),37,12
+semiconductors,Zinc (zn),37,43
+semiconductors,Tellurium (te),37,37
+semiconductors,Silicon (si),37,31
+semiconductors,Titanium (ti),37,38
+weaponry,Beryllium (be),38,3
+weaponry,Iridium (ir),38,15
+weaponry,Tantalum,38,36
+weaponry,Tungsten (w),38,39
+weaponry,Uranium (u),38,40
+weaponry,Antimony (sb),38,1

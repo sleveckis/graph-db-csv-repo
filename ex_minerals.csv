@@ -1,0 +1,360 @@
+mineral,product,mineral_id,product_id
+Aluminum (al),Transformers,0,34
+Aluminum (al),Aircraft,0,0
+Aluminum (al),Spacecraft,0,32
+Aluminum (al),Wiring,0,38
+Aluminum (al),Lightweighting,0,18
+Aluminum (al),Ev Wiring,0,11
+Aluminum (al),Alloys,0,1
+Aluminum (al),Magnets,0,19
+Aluminum (al),Lightweighting,0,18
+Aluminum (al),Led,0,17
+Aluminum (al),Batteries,0,2
+Aluminum (al),Batteries,0,2
+Antimony (sb),Batteries,1,2
+Antimony (sb),Semiconductors,1,30
+Antimony (sb),Electronics,1,9
+Antimony (sb),Vehicles Other,1,36
+Antimony (sb),Electronics,1,9
+Antimony (sb),Weaponry,1,37
+Arsenic (as),Equipment/Implants,2,10
+Arsenic (as),Scientific,2,29
+Arsenic (as),Alloys,2,1
+Arsenic (as),Food/Water/Nutrition,2,13
+Arsenic (as),Treatment,2,35
+Arsenic (as),Batteries,2,2
+Arsenic (as),Electronics,2,9
+Arsenic (as),Semiconductors,2,30
+Arsenic (as),Led,2,17
+Arsenic (as),Batteries,2,2
+Beryllium (be),Weaponry,3,37
+Beryllium (be),Electronics,3,9
+Beryllium (be),Communications,3,5
+Beryllium (be),Satellite,3,28
+Beryllium (be),Alloys,3,1
+Beryllium (be),Equipment/Implants,3,10
+Beryllium (be),Aircraft,3,0
+Beryllium (be),Spacecraft,3,32
+Beryllium (be),Vehicles Other,3,36
+Beryllium (be),Ev-Electronics,3,12
+Beryllium (be),Electronics,3,9
+Beryllium (be),Moderators,3,21
+Beryllium (be),Nuclear Other,3,23
+Beryllium (be),Switches,3,33
+Boron (b),Food/Water/Nutrition,4,13
+Boron (b),Equipment/Implants,4,10
+Boron (b),Treatment,4,35
+Boron (b),H2 Electrolyzers,4,16
+Boron (b),Offshore Turbines,4,24
+Boron (b),Semiconductors,4,30
+Boron (b),Magnets,4,19
+Boron (b),Pvs,4,27
+Boron (b),Moderators,4,21
+Cerium (ce),Electronics,5,9
+Cerium (ce),Ev-Electronics,5,12
+Cerium (ce),Batteries,5,2
+Cerium (ce),Catalysts,5,4
+Cerium (ce),Treatment,5,35
+Cobalt (co),Alloys,6,1
+Cobalt (co),Food/Water/Nutrition,6,13
+Cobalt (co),Equipment/Implants,6,10
+Cobalt (co),Treatment,6,35
+Cobalt (co),H2 Electrolyzers,6,16
+Cobalt (co),Batteries,6,2
+Cobalt (co),Magnets,6,19
+Cobalt (co),Batteries,6,2
+Cobalt (co),Conversion,6,7
+Cobalt (co),Fuel Cells,6,14
+Copper (cu),Motors,7,22
+Copper (cu),Construction,7,6
+Copper (cu),Alloys,7,1
+Copper (cu),Scientific,7,29
+Copper (cu),Food/Water/Nutrition,7,13
+Copper (cu),Equipment/Implants,7,10
+Copper (cu),Treatment,7,35
+Copper (cu),Spacecraft,7,32
+Copper (cu),Ships,7,31
+Copper (cu),Wiring,7,38
+Copper (cu),Ev Wiring,7,11
+Copper (cu),Breakers,7,3
+Copper (cu),Ev-Electronics,7,12
+Copper (cu),Electronics,7,9
+Copper (cu),Onshore Turbines,7,25
+Copper (cu),Offshore Turbines,7,24
+Copper (cu),Pvs,7,27
+Copper (cu),Transformers,7,34
+Copper (cu),Switches,7,33
+Copper (cu),Transformers,7,34
+Copper (cu),Converters,7,8
+Copper (cu),Motors,7,22
+Dysprosium (dy),Magnets,8,19
+Dysprosium (dy),Electronics,8,9
+Dysprosium (dy),Ev-Electronics,8,12
+Dysprosium (dy),Offshore Turbines,8,24
+Dysprosium (dy),Onshore Turbines,8,25
+Dysprosium (dy),Moderators,8,21
+Electrical steel,Motors,9,22
+Electrical steel,Onshore Turbines,9,25
+Electrical steel,Offshore Turbines,9,24
+Electrical steel,Moderators,9,21
+Electrical steel,Fuels,9,15
+Electrical steel,Motors,9,22
+Electrical steel,Switches,9,33
+Electrical steel,Breakers,9,3
+Electrical steel,Transformers,9,34
+Electrical steel,Converters,9,8
+Electrical steel,Transformers,9,34
+Fluorine (f),Food/Water/Nutrition,10,13
+Fluorine (f),Equipment/Implants,10,10
+Fluorine (f),Treatment,10,35
+Fluorine (f),Fuels,10,15
+Fluorine (f),Transformers,10,34
+Fluorine (f),Batteries,10,2
+Gallium (ga),Spacecraft,11,32
+Gallium (ga),Scientific,11,29
+Gallium (ga),Alloys,11,1
+Gallium (ga),Equipment/Implants,11,10
+Gallium (ga),Treatment,11,35
+Gallium (ga),Magnets,11,19
+Gallium (ga),Semiconductors,11,30
+Gallium (ga),Electronics,11,9
+Gallium (ga),Led,11,17
+Gallium (ga),Onshore Turbines,11,25
+Gallium (ga),Offshore Turbines,11,24
+Gallium (ga),Pvs,11,27
+Gallium (ga),Ev-Electronics,11,12
+Gallium nitride (gan),Led,12,17
+Gallium nitride (gan),Semiconductors,12,30
+Gallium nitride (gan),Electronics,12,9
+Germanium (ge),Spacecraft,13,32
+Germanium (ge),Microchips,13,20
+Germanium (ge),Ev-Electronics,13,12
+Germanium (ge),Electronics,13,9
+Germanium (ge),Semiconductors,13,30
+Germanium (ge),Breakers,13,3
+Germanium (ge),Switches,13,33
+Germanium (ge),Transformers,13,34
+Germanium (ge),Converters,13,8
+Germanium (ge),Pvs,13,27
+Indium (in),Motors,14,22
+Indium (in),Equipment/Implants,14,10
+Indium (in),Treatment,14,35
+Indium (in),Microchips,14,20
+Indium (in),Pvs,14,27
+Indium (in),Electronics,14,9
+Indium (in),Semiconductors,14,30
+Indium (in),Led,14,17
+Indium (in),Ev-Electronics,14,12
+Iridium (ir),Weaponry,15,37
+Iridium (ir),Electronics,15,9
+Iridium (ir),Equipment/Implants,15,10
+Iridium (ir),Scientific,15,29
+Iridium (ir),H2 Electrolyzers,15,16
+Iridium (ir),Motors,15,22
+Iridium (ir),Electronics,15,9
+Iridium (ir),Treatment,15,35
+Iron (fe),Transformers,16,34
+Iron (fe),Conversion,16,7
+Iron (fe),Batteries,16,2
+Iron (fe),Magnets,16,19
+Iron (fe),Batteries,16,2
+Iron (fe),Fuel Cells,16,14
+Iron (fe),Construction,16,6
+Lanthanum (la),Fuel Cells,17,14
+Lanthanum (la),Treatment,17,35
+Lanthanum (la),H2 Electrolyzers,17,16
+Lanthanum (la),Equipment/Implants,17,10
+Lanthanum (la),Batteries,17,2
+Lanthanum (la),Electronics,17,9
+Lanthanum (la),Ev-Electronics,17,12
+Lanthanum (la),Led,17,17
+Lanthanum (la),Conversion,17,7
+Lanthanum (la),Magnets,17,19
+Lithium (li),Alloys,18,1
+Lithium (li),Equipment/Implants,18,10
+Lithium (li),Treatment,18,35
+Lithium (li),Fuel Cells,18,14
+Lithium (li),Batteries,18,2
+Lithium (li),Lightweighting,18,18
+Lithium (li),Batteries,18,2
+Lithium (li),Lightweighting,18,18
+Lrees (light rare earth elements),Onshore Turbines,19,25
+Lrees (light rare earth elements),Catalysts,19,4
+Lrees (light rare earth elements),Batteries,19,2
+Lrees (light rare earth elements),Magnets,19,19
+Lrees (light rare earth elements),Electronics,19,9
+Lrees (light rare earth elements),Offshore Turbines,19,24
+Lrees (light rare earth elements),Food/Water/Nutrition,19,13
+Lrees (light rare earth elements),Motors,19,22
+Magnesium (mg),Lightweighting,20,18
+Magnesium (mg),Lightweighting,20,18
+Magnesium (mg),Treatment,20,35
+Magnesium (mg),Equipment/Implants,20,10
+Magnesium (mg),Food/Water/Nutrition,20,13
+Magnesium (mg),Alloys,20,1
+Manganese (mn),Conversion,21,7
+Manganese (mn),Electronics,21,9
+Manganese (mn),Food/Water/Nutrition,21,13
+Manganese (mn),H2 Electrolyzers,21,16
+Manganese (mn),Fuel Cells,21,14
+Manganese (mn),Lightweighting,21,18
+Manganese (mn),Batteries,21,2
+Manganese (mn),Lightweighting,21,18
+Manganese (mn),Ev-Electronics,21,12
+Manganese (mn),Alloys,21,1
+Mixed rare earth oxide (mreo),Conversion,22,7
+Mixed rare earth oxide (mreo),Fuel Cells,22,14
+Natural graphite,Batteries,23,2
+Natural graphite,Batteries,23,2
+Natural graphite,Conversion,23,7
+Natural graphite,Moderators,23,21
+Natural graphite,Fuels,23,15
+Natural graphite,Fuel Cells,23,14
+Natural graphite,Alloys,23,1
+Neodymium (nd),Offshore Turbines,24,24
+Neodymium (nd),Batteries,24,2
+Neodymium (nd),Magnets,24,19
+Nickel (ni),Batteries,25,2
+Nickel (ni),Breakers,25,3
+Nickel (ni),Transformers,25,34
+Nickel (ni),Conversion,25,7
+Nickel (ni),Converters,25,8
+Nickel (ni),Switches,25,33
+Nickel (ni),Moderators,25,21
+Nickel (ni),H2 Electrolyzers,25,16
+Nickel (ni),Fuel Cells,25,14
+Nickel (ni),Lightweighting,25,18
+Nickel (ni),Batteries,25,2
+Nickel (ni),Magnets,25,19
+Nickel (ni),Lightweighting,25,18
+Nickel (ni),Equipment/Implants,25,10
+Palladium (pd),Electronics,26,9
+Palladium (pd),Fuel Cells,26,14
+Palladium (pd),Equipment/Implants,26,10
+Palladium (pd),Treatment,26,35
+Palladium (pd),Spacecraft,26,32
+Palladium (pd),Catalysts,26,4
+Palladium (pd),Ev-Electronics,26,12
+Palladium (pd),Electronics,26,9
+Palladium (pd),Satellite,26,28
+Palladium (pd),Conversion,26,7
+Phosphorous (p),Led,27,17
+Phosphorous (p),Batteries,27,2
+Phosphorous (p),Batteries,27,2
+Phosphorous (p),Treatment,27,35
+Phosphorous (p),Equipment/Implants,27,10
+Phosphorous (p),Alloys,27,1
+Platinum (pt),Conversion,28,7
+Platinum (pt),Electronics,28,9
+Platinum (pt),Ev-Electronics,28,12
+Platinum (pt),Catalysts,28,4
+Platinum (pt),Fuel Cells,28,14
+Platinum (pt),Aircraft,28,0
+Platinum (pt),H2 Electrolyzers,28,16
+Platinum (pt),Treatment,28,35
+Platinum (pt),Equipment/Implants,28,10
+Praseodymium (pr),Motors,29,22
+Praseodymium (pr),Magnets,29,19
+Praseodymium (pr),Offshore Turbines,29,24
+Praseodymium (pr),Batteries,29,2
+Praseodymium (pr),Alloys,29,1
+Rhodium (rh),Scientific,30,29
+Rhodium (rh),Communications,30,5
+Rhodium (rh),Motors,30,22
+Rhodium (rh),Catalysts,30,4
+Silicon (si),Semiconductors,31,30
+Silicon (si),Electronics,31,9
+Silicon (si),Ev-Electronics,31,12
+Silicon (si),Lightweighting,31,18
+Silicon (si),Lightweighting,31,18
+Silicon (si),Motors,31,22
+Silicon (si),Pvs,31,27
+Silicon (si),Transformers,31,34
+Silicon carbide (sic),Construction,32,6
+Silicon carbide (sic),Equipment/Implants,32,10
+Silicon carbide (sic),Converters,32,8
+Silicon carbide (sic),Transformers,32,34
+Silicon carbide (sic),Breakers,32,3
+Silicon carbide (sic),Treatment,32,35
+Silicon carbide (sic),Switches,32,33
+Silicon carbide (sic),Electronics,32,9
+Silicon carbide (sic),Ev-Electronics,32,12
+Silicon carbide (sic),Production/Manufacturing,32,26
+Sodium (na),Equipment/Implants,33,10
+Sodium (na),Food/Water/Nutrition,33,13
+Sodium (na),Treatment,33,35
+Sodium (na),Batteries,33,2
+Sodium (na),Moderators,33,21
+Strontium (sr),Treatment,34,35
+Strontium (sr),Fuels,34,15
+Strontium (sr),Fuel Cells,34,14
+Strontium (sr),Conversion,34,7
+Strontium (sr),H2 Electrolyzers,34,16
+Strontium (sr),Equipment/Implants,34,10
+Strontium (sr),Scientific,34,29
+Sulfur (s),Batteries,35,2
+Sulfur (s),Food/Water/Nutrition,35,13
+Sulfur (s),Construction,35,6
+Sulfur (s),Scientific,35,29
+Tantalum,Ev-Electronics,36,12
+Tantalum,Spacecraft,36,32
+Tantalum,Aircraft,36,0
+Tantalum,Treatment,36,35
+Tantalum,Equipment/Implants,36,10
+Tantalum,Production/Manufacturing,36,26
+Tantalum,Weaponry,36,37
+Tantalum,Scientific,36,29
+Tantalum,Nuclear Other,36,23
+Tantalum,Electronics,36,9
+Tellurium (te),Electronics,37,9
+Tellurium (te),Electronics,37,9
+Tellurium (te),Alloys,37,1
+Tellurium (te),Ev-Electronics,37,12
+Tellurium (te),Semiconductors,37,30
+Tellurium (te),Pvs,37,27
+Titanium (ti),Spacecraft,38,32
+Titanium (ti),Aircraft,38,0
+Titanium (ti),H2 Electrolyzers,38,16
+Titanium (ti),Treatment,38,35
+Titanium (ti),Equipment/Implants,38,10
+Titanium (ti),Lightweighting,38,18
+Titanium (ti),Motors,38,22
+Titanium (ti),Semiconductors,38,30
+Tungsten (w),Weaponry,39,37
+Tungsten (w),Aircraft,39,0
+Tungsten (w),Alloys,39,1
+Uranium (u),Weaponry,40,37
+Uranium (u),Fuels,40,15
+Uranium (u),Moderators,40,21
+Uranium (u),Ships,40,31
+Uranium (u),Spacecraft,40,32
+Uranium (u),Food/Water/Nutrition,40,13
+Uranium (u),Treatment,40,35
+Uranium (u),Scientific,40,29
+Vanadium (v),Moderators,41,21
+Vanadium (v),Batteries,41,2
+Vanadium (v),Aircraft,41,0
+Vanadium (v),Alloys,41,1
+Yttrium (y),Fuel Cells,42,14
+Yttrium (y),H2 Electrolyzers,42,16
+Yttrium (y),Treatment,42,35
+Yttrium (y),Communications,42,5
+Yttrium (y),Batteries,42,2
+Yttrium (y),Conversion,42,7
+Yttrium (y),Led,42,17
+Zinc (zn),Food/Water/Nutrition,43,13
+Zinc (zn),Alloys,43,1
+Zinc (zn),Semiconductors,43,30
+Zinc (zn),Batteries,43,2
+Zinc (zn),Onshore Turbines,43,25
+Zinc (zn),Offshore Turbines,43,24
+Zinc (zn),Pvs,43,27
+Zirconium (zr),Fuels,44,15
+Zirconium (zr),Fuel Cells,44,14
+Zirconium (zr),Spacecraft,44,32
+Zirconium (zr),H2 Electrolyzers,44,16
+Zirconium (zr),Treatment,44,35
+Zirconium (zr),Production/Manufacturing,44,26
+Zirconium (zr),Scientific,44,29
+Zirconium (zr),Moderators,44,21
+Zirconium (zr),Conversion,44,7
