@@ -1,4 +1,4 @@
-mineral,product,mineral_id,product_id
+mineral_name,product,mineral_id,product_id
 Aluminum (al),Transformers,0,34
 Aluminum (al),Aircraft,0,0
 Aluminum (al),Spacecraft,0,32

@@ -1,4 +1,4 @@
-product,mineral,product_id,mineral_id
+product_name,mineral,product_id,mineral_id
 Aircraft,Aluminum (al),0,0
 Aircraft,Titanium (ti),0,38
 Aircraft,Tantalum,0,36
